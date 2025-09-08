@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "118c62396c17bf24",
+        "id": "e40841c02fa63793",
         "type": "tabs",
         "children": [
           {
-            "id": "4176792234076f8a",
+            "id": "1b87a095b0f75b58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14 - Static ain't always noise.md",
+                "file": "30 - Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - Static ain't always noise"
-            }
-          },
-          {
-            "id": "e914c3a2af4fac3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15 - useless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15 - useless"
-            }
-          },
-          {
-            "id": "a1de1c85cb0d658b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16 - Tab, Tab, Attack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16 - Tab, Tab, Attack"
-            }
-          },
-          {
-            "id": "7adf15d5cf092739",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17 - Magikarp Ground Mission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17 - Magikarp Ground Mission"
-            }
-          },
-          {
-            "id": "f910e64dc62d7d95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18 - repetitions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18 - repetitions"
-            }
-          },
-          {
-            "id": "cdae41237f07e53f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "19 - Big Zip.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19 - Big Zip"
-            }
-          },
-          {
-            "id": "234b792c6d09b69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20 - First Find.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20 - First Find"
+              "title": "30 - Serpentine"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,31 +169,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "234b792c6d09b69a",
+  "active": "1b87a095b0f75b58",
   "lastOpenFiles": [
+    "Retos 11-20/20 - First Find.md",
+    "21 - Super SSH.md",
+    "22 - runme.py.md",
+    "23 - Codebook.md",
+    "24 - convertme.py.md",
+    "25 - fixme1.py.md",
+    "26 - fixme2.py.md",
+    "27 - PW Crack 1.md",
+    "28 - PW Crack 2.md",
+    "29 - PW Crack 3.md",
+    "30 - Serpentine.md",
     "plantilla.md",
-    "20 - First Find.md",
-    "19 - Big Zip.md",
-    "18 - repetitions.md",
-    "17 - Magikarp Ground Mission.md",
-    "16 - Tab, Tab, Attack.md",
-    "15 - useless.md",
-    "14 - Static ain't always noise.md",
-    "13 - Wave a flag.md",
-    "12 - strings it.md",
-    "11 - Based.md",
-    "10- Nice netcat....md",
-    "09 - Glitch Cat.md",
-    "08 - plumbing.md",
-    "07 - what's a net cat?.md",
-    "06 - Obedient Cat.md",
-    "05 - First Grep.md",
-    "04 - Bases.md",
-    "03 - Warmed Up.md",
-    "02- 2Warm.md",
-    "01 - Lets Warm Up.md",
     "README.md",
-    "picoCTF",
-    "Bienvenido.md"
+    "Retos 11-20",
+    "Retos 1 -10",
+    "Retos 11-20/19 - Big Zip.md",
+    "Retos 11-20/18 - repetitions.md",
+    "Retos 11-20/17 - Magikarp Ground Mission.md",
+    "Retos 11-20/16 - Tab, Tab, Attack.md",
+    "Retos 11-20/15 - useless.md",
+    "Retos 11-20/14 - Static ain't always noise.md",
+    "Retos 11-20/13 - Wave a flag.md",
+    "Retos 11-20/12 - strings it.md",
+    "Retos 11-20/11 - Based.md",
+    "Retos 1 -10/10- Nice netcat....md",
+    "Retos 1 -10/09 - Glitch Cat.md",
+    "Retos 1 -10/08 - plumbing.md",
+    "Retos 1 -10/07 - what's a net cat?.md",
+    "picoCTF"
   ]
 }
