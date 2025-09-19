@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - Serpentine.md",
+                "file": "plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30 - Serpentine"
+              "title": "plantilla"
+            }
+          },
+          {
+            "id": "d55b45f7f488616a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plantilla"
+            }
+          },
+          {
+            "id": "8f0e6b1659586501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plantilla"
+            }
+          },
+          {
+            "id": "26ee4e29ee8c927b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plantilla"
+            }
+          },
+          {
+            "id": "b3161b7565448d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plantilla"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,36 +226,39 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1b87a095b0f75b58",
+  "active": "b3161b7565448d22",
   "lastOpenFiles": [
-    "Retos 11-20/20 - First Find.md",
-    "21 - Super SSH.md",
-    "22 - runme.py.md",
-    "23 - Codebook.md",
-    "24 - convertme.py.md",
-    "25 - fixme1.py.md",
-    "26 - fixme2.py.md",
-    "27 - PW Crack 1.md",
-    "28 - PW Crack 2.md",
-    "29 - PW Crack 3.md",
-    "30 - Serpentine.md",
+    "Web - Parte 1/where are the robots.md",
+    "Client-side-again.md",
+    "Web - Parte 1/picobrowser.md",
+    "Web - Parte 1/logon.md",
+    "Web - Parte 1/Insp3ct0r.md",
+    "Web - Parte 1/dont-use-client-side.md",
+    "Web - Parte 1/Client-side-again.md",
+    "dont-use-client-side.md",
     "plantilla.md",
-    "README.md",
+    "picobrowser.md",
+    "logon.md",
+    "where are the robots.md",
+    "Insp3ct0r.md",
+    "30 - Serpentine.md",
+    "Web - Parte 1",
+    "carpeta sin título",
+    "Retos 21-30/30 - Serpentine.md",
+    "Retos 21-30/29 - PW Crack 3.md",
+    "Retos 21-30/28 - PW Crack 2.md",
+    "Retos 21-30/27 - PW Crack 1.md",
+    "Retos 21-30/26 - fixme2.py.md",
+    "Retos 21-30/25 - fixme1.py.md",
+    "Retos 21-30/24 - convertme.py.md",
+    "Retos 21-30/23 - Codebook.md",
+    "Retos 21-30/22 - runme.py.md",
+    "Retos 21-30",
+    "Retos 11-20/20 - First Find.md",
+    "Retos 21-30/21 - Super SSH.md",
+    "22 - runme.py.md",
     "Retos 11-20",
     "Retos 1 -10",
-    "Retos 11-20/19 - Big Zip.md",
-    "Retos 11-20/18 - repetitions.md",
-    "Retos 11-20/17 - Magikarp Ground Mission.md",
-    "Retos 11-20/16 - Tab, Tab, Attack.md",
-    "Retos 11-20/15 - useless.md",
-    "Retos 11-20/14 - Static ain't always noise.md",
-    "Retos 11-20/13 - Wave a flag.md",
-    "Retos 11-20/12 - strings it.md",
-    "Retos 11-20/11 - Based.md",
-    "Retos 1 -10/10- Nice netcat....md",
-    "Retos 1 -10/09 - Glitch Cat.md",
-    "Retos 1 -10/08 - plumbing.md",
-    "Retos 1 -10/07 - what's a net cat?.md",
     "picoCTF"
   ]
 }
