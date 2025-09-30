@@ -8,63 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbb3dc04b6abd8f2",
+            "id": "c65349a5e7f11086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MatchTheRegex.md",
+                "file": "IntroToBurp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MatchTheRegex"
+              "title": "IntroToBurp"
             }
           },
           {
-            "id": "5842152986823b97",
+            "id": "9629a8a3ade44127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOAP.md",
+                "file": "Local Authority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOAP"
+              "title": "Local Authority"
             }
           },
           {
-            "id": "0c9ceb0fd93202f9",
+            "id": "fc9dd94e9e25b77f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trickster.md",
+                "file": "Unminify.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trickster"
+              "title": "Unminify"
             }
           },
           {
-            "id": "92f831be00fcc829",
+            "id": "ff7239fdb90fa495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most Cookies.md",
+                "file": "WebDecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Most Cookies"
+              "title": "WebDecode"
+            }
+          },
+          {
+            "id": "3da9631b07a74a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Power Cookie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Power Cookie"
+            }
+          },
+          {
+            "id": "bb26ca20a6fc1379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plantilla"
+            }
+          },
+          {
+            "id": "61dc4b5b1319fc57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plantilla"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,36 +254,37 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "92f831be00fcc829",
+  "active": "61dc4b5b1319fc57",
   "lastOpenFiles": [
+    "Tarea 2 - Web/Unminify.md",
+    "Tarea 2 - Web/WebDecode.md",
+    "Tarea 2 - Web/Power Cookie.md",
+    "SQLiLite.md",
+    "Tarea 2 - Web/SQLiLite.md",
+    "Tarea 2 - Web/Secrets.md",
+    "Tarea 2 - Web/Roboto Sans.md",
+    "Tarea 2 - Web/Local Authority.md",
+    "Tarea 2 - Web/IntroToBurp.md",
+    "Tarea 2 - Web/Inspect HTML.md",
+    "Tarea 2 - Web/Includes.md",
+    "Tarea 2 - Web",
+    "carpeta sin título",
     "plantilla.md",
+    "Secrets.md",
+    "Roboto Sans.md",
+    "Power Cookie.md",
+    "WebDecode.md",
+    "Unminify.md",
+    "Local Authority.md",
+    "IntroToBurp.md",
+    "Inspect HTML.md",
+    "Includes.md",
     "Most Cookies.md",
     "Trickster.md",
     "SOAP.md",
     "MatchTheRegex.md",
     "JaWT Scratchpad.md",
-    "Irish-Name-Repo 1.md",
-    "Cookies.md",
-    "GET aHEAD.md",
-    "Scavenger Hunt.md",
-    "More SQLi.md",
-    "Web - Parte 1/where are the robots.md",
-    "Client-side-again.md",
-    "Web - Parte 1/picobrowser.md",
-    "Web - Parte 1/logon.md",
-    "Web - Parte 1/Insp3ct0r.md",
-    "Web - Parte 1/dont-use-client-side.md",
-    "Web - Parte 1/Client-side-again.md",
-    "dont-use-client-side.md",
-    "picobrowser.md",
-    "logon.md",
-    "where are the robots.md",
-    "Insp3ct0r.md",
-    "30 - Serpentine.md",
     "Web - Parte 1",
-    "carpeta sin título",
-    "Retos 21-30/30 - Serpentine.md",
-    "Retos 21-30/29 - PW Crack 3.md",
     "Retos 21-30",
     "Retos 11-20",
     "Retos 1 -10",
